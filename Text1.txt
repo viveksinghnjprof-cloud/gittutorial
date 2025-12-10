@@ -1,0 +1,2 @@
+ C:\VivekDS\Python> streamlit run D1.py     
+ C:\VivekDS\Python> pip install --upgrade langchain-groq   
